@@ -1,0 +1,14 @@
+* impressora
+
+
+** deferred
+
+http://jsfiddle.net/paulosb/vSaJF/
+
+
+
+#+NAME: exp1
+#+BEGIN_SRC js
+var t=2
+
+#+END_SRC
