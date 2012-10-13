@@ -3,7 +3,7 @@
 <2012-10-12 Fri>
 
 ** link
-algun exemplos de leitura e escrita em ficheiros
+alguns exemplos de leitura e escrita em ficheiros
 http://jrgns.net/content/getting_started_with_node_js
 
 http://docs.nodejitsu.com/articles/file-system/how-to-read-files-in-nodejs
@@ -19,6 +19,8 @@ http://anwajler.com/node.html
 http://jsfiddle.net/paulosb/vSaJF/
 
 
+* parsers XML javascript
+https://github.com/joyent/node/wiki/Modules#wiki-parsers-xml
 
 #+NAME: exp1
 #+BEGIN_SRC js
