@@ -1,4 +1,17 @@
 * impressora
+** inicio
+<2012-10-12 Fri>
+
+** link
+algun exemplos de leitura e escrita em ficheiros
+http://jrgns.net/content/getting_started_with_node_js
+
+http://docs.nodejitsu.com/articles/file-system/how-to-read-files-in-nodejs
+
+node
+
+http://anwajler.com/node.html
+
 
 
 ** deferred
