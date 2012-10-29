@@ -2,6 +2,8 @@
 ** inicio
 <2012-10-12 Fri>
 
+sudo echo "Testar a impressora" > /dev/usb/lp0
+
 ** link
 alguns exemplos de leitura e escrita em ficheiros
 http://jrgns.net/content/getting_started_with_node_js
@@ -12,7 +14,9 @@ node
 
 http://anwajler.com/node.html
 
+** nano
 
+https://github.com/dscape/nano
 
 ** deferred
 
